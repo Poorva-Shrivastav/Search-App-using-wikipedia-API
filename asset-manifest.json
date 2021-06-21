@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Search-App-using-wikipedia-API/static/css/main.21a4dd5b.chunk.css",
+    "main.js": "/Search-App-using-wikipedia-API/static/js/main.c4dc4482.chunk.js",
+    "main.js.map": "/Search-App-using-wikipedia-API/static/js/main.c4dc4482.chunk.js.map",
+    "runtime-main.js": "/Search-App-using-wikipedia-API/static/js/runtime-main.c4601058.js",
+    "runtime-main.js.map": "/Search-App-using-wikipedia-API/static/js/runtime-main.c4601058.js.map",
+    "static/js/2.16628955.chunk.js": "/Search-App-using-wikipedia-API/static/js/2.16628955.chunk.js",
+    "static/js/2.16628955.chunk.js.map": "/Search-App-using-wikipedia-API/static/js/2.16628955.chunk.js.map",
+    "static/js/3.bfd48e6f.chunk.js": "/Search-App-using-wikipedia-API/static/js/3.bfd48e6f.chunk.js",
+    "static/js/3.bfd48e6f.chunk.js.map": "/Search-App-using-wikipedia-API/static/js/3.bfd48e6f.chunk.js.map",
+    "index.html": "/Search-App-using-wikipedia-API/index.html",
+    "static/css/main.21a4dd5b.chunk.css.map": "/Search-App-using-wikipedia-API/static/css/main.21a4dd5b.chunk.css.map",
+    "static/js/2.16628955.chunk.js.LICENSE.txt": "/Search-App-using-wikipedia-API/static/js/2.16628955.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Search-App-using-wikipedia-API/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4601058.js",
+    "static/js/2.16628955.chunk.js",
+    "static/css/main.21a4dd5b.chunk.css",
+    "static/js/main.c4dc4482.chunk.js"
+  ]
+}
